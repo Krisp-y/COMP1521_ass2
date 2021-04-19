@@ -1,4 +1,4 @@
-### COMP1521 20T3: ass1: mips_sim ###
+### COMP1521 20T3: mips_sim ###
 
 
 An implementation in C of the following 10 MIPS instructions:

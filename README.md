@@ -4,7 +4,7 @@
 An implementation in C of the following 10 MIPS instructions:
 
 Assembler	C	Bit Pattern
-add $d, $s, $t	d = s + t	000000ssssstttttddddd00000100000
+add $d, $s, $t	d = s + t	000000ssssstttttddddd00000100000. 
 sub $d, $s, $t	d = s - t	000000ssssstttttddddd00000100010
 slt $d, $s, $t	d = s < t	000000ssssstttttddddd00000101010
 mul $d, $s, $t	d = s * t	011100ssssstttttddddd00000000010
